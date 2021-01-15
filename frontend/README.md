@@ -62,3 +62,21 @@
 - react-dom@15.4.2
 - react-router@3.0.2
 - axios@0.15.3
+
+### Passos
+
+1. Configuração do Build do Webpack:
+   1. Criar arquivo **webpack.config.js**;
+   2. Alterar arquivo **package.json**;
+2. Criação de arquivo **index.html** em **public**;
+3. Componente **App**;
+4. Criação de **index.jsx**;
+5. Componentes **Todo** e **About**;
+6. Componente **Menu**;
+7. Configuração das **Rotas**;
+8. Component **PageHeader**;
+9. Component **TodoForm** e **TodoList**;
+10. Estrutura do **TodoForm**;
+11. Componentes **Grid** e **IconButton**;
+12. Renderização Condicional **(If)**;
+
